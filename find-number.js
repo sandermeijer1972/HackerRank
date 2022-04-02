@@ -6,10 +6,10 @@
 
 function findNumber(arr, k) {
     if(arr.includes(k)) {
-        console.log("yes");
+        console.log("YES");
         return "YES";
     } else {
-        console.log("no");
+        console.log("NO");
         return "NO";
     };
 };
